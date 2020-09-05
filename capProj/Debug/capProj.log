@@ -1,0 +1,7 @@
+﻿  department.cpp
+  main.cpp
+  patient.cpp
+  Staff.cpp
+C:\Users\Oculus\Desktop\capProj\capProj\Staff.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  capProj.vcxproj -> C:\Users\Oculus\Desktop\capProj\Debug\capProj.exe
